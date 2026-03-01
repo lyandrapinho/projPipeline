@@ -1,0 +1,4 @@
+# Created at 2026-03-01T15:24:06.458
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Documentos\UNINTER\Módulo A - 2026\Fase 1 - DevOps e Integração Contínua\aula 3\Pipeline-main\Pipeline-main\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
